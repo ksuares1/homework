@@ -6,7 +6,7 @@ body {
       h2 {
         text-align: center;
         font-size: 34px;
-        line-height: 48px;
+        line-height: 50px;
         font-weight: 900;
         margin: 0;
       }
@@ -18,10 +18,10 @@ body {
 
       h2 {
         color: #8064e9;
-        padding: 0 0 24px;
+        padding: 10px 10px 24px;
       }
 
-      .image{
+     .image{
      display: block;
      margin:0 auto; 
      width:25%;
